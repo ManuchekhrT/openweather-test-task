@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">OpenWeatherApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="open_weather_api_key">45c30ba56d56725c2783d1190935a18d</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="city">Moscow</string>
+    <string name="temp">32 С</string>
+    <string name="error_exception">An error occurred during the current operation. Please repeat the action</string>
+    <string name="weather_fragment_label">Weather</string>
+    <string name="weather_details_fragment_label">Weather details</string>
+    <string name="min_temp">Min. Temp</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="title_city_moscow">Moscow</string>
+    <string name="title_city_petersburg">Petersburg</string>
+    <string name="action_submit">Submit</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="error_empty_field">Please enter city</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_create">Create</string>
+    <string name="title_edit_weather">Edit Weather</string>
+    <string name="title_create_weather">Create Weather</string>
+</resources>
